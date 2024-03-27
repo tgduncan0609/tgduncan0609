@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Duncan
+- 👀 I’m interested in machine learning and recommender system design. 
+- 📫 How to reach me：tgduncan0609@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: 🏃🏄🐱🐈🐶🐢🐟🐟
